@@ -1,0 +1,148 @@
+Timestamp,Name,Age,Gender,Hobby,10th percentage,12th Board,12th/Diploma percentage,Branch of engineering,BTech CGPA,Future interests,Dropper? ,Preparation level for Interview,Internships done? ,Placed? ,"If placed, Name of Company","If placed, Company Designation "
+2/2/2019 20:34:03,Shashwat Swain,21,Male,Coding,91,CBSE,93,CSE,8.5,MTech,No,High,Yes,Yes,Invicix Labs,
+2/2/2019 20:45:30,Santoshini Behera,22,Female,Music,84.5,CBSE,85.4,CSE,8.61,MTech,No,Moderate,No,Yes,Wipro,Bangalore
+2/2/2019 20:46:49,Ananya Patra,21,Female, ,86.67,CHSE,76.67,Mechanical,8.41,Others,No,Moderate,Yes,Yes,Tata steel BSL,
+2/2/2019 20:50:04,PRASANTA KUMAR PADHI ,21,Male,Others,85.66,CHSE,74,Mechanical,8.67,MTech,Yes,Moderate,Yes,No,NA,NA
+2/2/2019 20:51:44,MUKTI GOURAV NAYAK,22,Male,Others,95,CBSE,89.4,Mechanical,8.16,MBA,Yes,Moderate,Yes,Yes,"TATA STEEL, BSL.",Graduate Management Trainee
+2/2/2019 20:53:21,Dilip kumar Dami ,21,Male,Art,81.33,CHSE,65.6,Mechanical,8.16,MTech,No,Moderate,Yes,No,--,--
+2/2/2019 20:55:03,Pratik Satpathy,22,Male,Others,95,CBSE,87.6,CSE,7.9,MBA,No,Moderate,Yes,Yes,Infosys,Developer
+2/2/2019 20:56:35,Naresh Kumar Behera,22,Male,Others,82,CHSE,65,Mechanical,7.8,Others,No,Moderate,Yes,No,,
+2/2/2019 20:56:59,VARENYAM RAY,21,Male,Art,91.33,CBSE,88.4,Mettalurgy,7.85,MBA,No,High,Yes,No,,
+2/2/2019 20:57:50,Simadri Swain,21,Female,Art,95,CBSE,90.33,CSE,8.62,Others,No,Moderate,Yes,Yes,Infosys,System Engineer
+2/2/2019 20:58:30,Sweta das,22,Female,Dance,90.8,CBSE,89.4,Mechanical,8,MBA,No,Low,Yes,Yes,Vedanta,GET
+2/2/2019 20:58:43,Manoj Kumar Sethy,21,Male,Sports,75,CHSE,58,CSE,7.8,Others,No,Moderate,No,No,,
+2/2/2019 21:00:03,Mahammad Kalam ,19,Male,Sports,89,CHSE,83,Mechanical,8.3,Others,No,High,Yes,Yes,Vedanta ,Jharsuguda 
+2/2/2019 21:00:07,Pritam kumar,21,Male,Others,92,CBSE,94,ETC,6.7,Others,No,Moderate,Yes,Yes,Jio,Manager
+2/2/2019 21:00:31,Uttam Nayak,22,Male,Others,82.74,ICSE,80.2,Mettalurgy,7.57,MBA,Yes,Moderate,Yes,No,,
+2/2/2019 21:00:49,V ANWESH,21,Male,Music,84,CHSE,89.1,Mechanical,7.79,MBA,No,Moderate,Yes,No,,
+2/2/2019 21:00:52,Annada samal,21,Female,Art,92,CBSE,82,Mechanical,8.03,MTech,No,Low,Yes,No,,
+2/2/2019 21:01:45,MOHIT KUMAR SWAIN ,22,Male,Music,89.3,CHSE,76.5,Mechanical,7.83,Others,Yes,Moderate,Yes,No,,
+2/2/2019 21:01:56,Amit gouda,22,Male,Others,89.2,CBSE,80,CSE,8.12,MBA,Yes,Moderate,No,Yes,Infosys,Asst System engineer
+2/2/2019 21:01:58,Ashutosh,21,Male,Others,95,CBSE,86.4,CSE,8,Others,No,Moderate,Yes,Yes,Kg LLP,ML engineer
+2/2/2019 21:02:04,Sthita prajnya,21,Female,Sports,95,CBSE,82,Mechanical,8.35,Others,Yes,Moderate,Yes,No,,
+2/2/2019 21:02:40,Sanyasee Sahu,21,Male,Coding,86.6,CHSE,86.5,Electrical,8.23,Others,No,Moderate,Yes,Yes,Wipro,Project Engineer
+2/2/2019 21:02:47,Manda Rasmita,21,Female,Music,95,CBSE,87.2,Mechanical,8.14,MTech,No,Moderate,Yes,No,,
+2/2/2019 21:04:22,Ankit purohit,23,Male,Sports,88.4,CBSE,85.2,CSE,7.82,MBA,Yes,Moderate,No,Yes,Infosys,System engineer(Trainee)
+2/2/2019 21:07:40,Abani Kanta Bebarta,22,Male,Art,93.1,CBSE,91.2,CSE,8.23,Others,No,Low,No,Yes,Tata Consultancy Services,Assistant System Engineer Trainee
+2/2/2019 21:07:52,DIBYA RANJAN PRADHAN,22,Male,Others,90,CBSE,86,Mettalurgy,7.5,Others,Yes,Moderate,Yes,Yes,TATA Steel BSL,Managerial engg. trainee(MET)
+2/2/2019 21:08:03,Pritish Nayak,23,Male,Coding,85,CBSE,74.68,Mettalurgy,6.98(upto 6th semester),MBA,Yes,Moderate,Yes,Yes,Shiftu Technology,Bhubaneswar
+2/2/2019 21:08:05,Pradeep Kumar Pati,21,Male,Others,89.16,CHSE,82.67,Mechanical,7.99,MS,No,Moderate,Yes,No,,
+2/2/2019 21:08:47,Rajesh Kumar Routray,23,Male,Sports,91,CBSE,90.6,Mechanical,8.12,Others,No,Moderate,Yes,No,,
+2/2/2019 21:08:53,SUVANJITA DAS,21,Female,Dance,89,CHSE,75,Mechanical,8.57,MBA,No,High,Yes,Yes,Vedanta,GET
+2/2/2019 21:09:55,Sai Sarthak Mohanty,21,Male,Coding,91.5,CBSE,93,Mechanical,8.49,MBA,No,Moderate,Yes,Yes,infosys,system software engineer
+2/2/2019 21:12:51,nibedita,22,Female,Others,90.57,ICSE,89,Mechanical,8.28,Others,Yes,Moderate,Yes,No,,
+2/2/2019 21:13:57,Dibya Jyoti Rout,21,Male,Art,95,CBSE,88,Electrical,8.63,Others,No,Low,Yes,Yes,Vedanta,GET
+2/2/2019 21:17:57,Shashwati swain,20,Female,Coding,93,CBSE,85,CSE,8.6,MBA,No,Moderate,No,Yes,TCS,System engineer
+2/2/2019 21:18:23,Abhipsa Dash,21,Female,Dance,70.17,ICSE,70.5,Mettalurgy,7.25,MTech,No,Moderate,Yes,No,Student,Student
+2/2/2019 21:18:42,Akankshya Rout,20,Female,Dance,85.67,ICSE,74.5,Civil,7.67,Others,No,Moderate,Yes,No,,
+2/2/2019 21:21:11,Debashis Nayak,21,Male,Sports,91.2,CBSE,83.4,CSE,8.95,Others,No,Moderate,No,Yes,Wipro,Project Engg.
+2/2/2019 21:21:13,Runa chand,20,Female,Others,91.83,CHSE,75.66,Mechanical,8.29,Others,No,Moderate,No,No,,
+2/2/2019 21:21:17,PRIYANKA ROUT ,22,Female,Art,83,CHSE,74,Civil,8.3,Banking,No,High,Yes,No,,
+2/2/2019 21:23:40,Bhinam Behera,21,Male,Others,55.5,CHSE,51.83,CSE,6.66,Others,No,Low,Yes,No,,
+2/2/2019 21:25:43,Nirmal Chandra Panda,21,Male,Coding,89,CBSE,90.4,CSE,8.12,MTech,No,Moderate,Yes,No,,
+2/2/2019 21:27:29,Shahamin,21,Female,Music,86,CBSE,85.5,ETC,8.4,Others,No,Moderate,No,Yes,TCS,Assistant system engg(Trainee)
+2/2/2019 21:27:30,Amit Kumar Pradhan,21,Male,Coding,74,CBSE,60,CSE,8,MTech,No,High,Yes,Yes,Google,Software Developer
+2/2/2019 21:27:56,Satish Kumar Xess,21,Male,Sports,95,CBSE,77,Civil,7.7,Others,No,Low,No,No,,
+2/2/2019 21:28:08,Ipsita Panda,21,Female,Others,91.5,CHSE,72.5,Civil,8.12,MTech,Yes,Moderate,Yes,No,,
+2/2/2019 21:29:31,Deepak Kumar Behera,21,Male,Dance,80,CHSE,76,CSE,7.4,MBA,No,Moderate,Yes,Yes,Samsung,Software engineer
+2/2/2019 21:29:38,Lopamudra Pradhan,20,Female,Others,84.5,CHSE,67.1,Civil,70.9,MTech,No,High,Yes,No,,
+2/2/2019 21:30:00,Bikram Kishore Lenka,21,Male,Music,49.5,CHSE,65,CSE,7.46,MTech,Yes,Moderate,No,No,,
+2/2/2019 21:30:57,Bikarm Kishore Lenka,24,Male,Music,75,CHSE,70,CSE,7,MS,No,Moderate,Yes,Yes,Cognizant,Software engineer
+2/2/2019 21:31:07,Nibedita parida,21,Female,Dance,90.3,CHSE,72,Mechanical,8.19,Others,No,Moderate,Yes,No,,
+2/2/2019 21:31:43,Partha sarathi Pradhan,22,Male,Sports,90,CHSE,71,Electrical,8.37,MTech,Yes,Moderate,Yes,No,,
+2/2/2019 21:32:05,ANKITA MISHTA,21,Female,Others,93,CBSE,75,Production,7.86,MTech,No,Moderate,Yes,No,,
+2/2/2019 21:32:08,Abinash Biswal,22,Male,Sports,93.1,CBSE,87.2,Civil,8.05,Others,Yes,Moderate,Yes,No,,
+2/2/2019 21:32:25,Ashish Mohanty,22,Male,Others,87.5,CHSE,71.33,Civil,8.33,MTech,Yes,Low,No,No,,
+2/2/2019 21:33:07,Manmay Rout,21,Male,Music,95,CBSE,84.8,ETC,7.97,MBA,No,Moderate,Yes,Yes,Wipro,Project Engineer Trainee
+2/2/2019 21:33:13,Debabrata Samal,20,Male,Coding,91,CHSE,75,Civil,7.7,Others,No,Low,No,No,,
+2/2/2019 21:33:45,Dwiti Krishna Panda,21,Male,Music,91.28,ICSE,80.2,Mechanical,7.66,Others,No,Moderate,Yes,No,,
+2/2/2019 21:33:58,SHIVA PRASAD MAHARANA,21,Male,Sports,85,CHSE,79.786,Civil,8.38,Others,No,High,Yes,No,,
+2/2/2019 21:33:59,HEMANTA KUMAR NAIK,21,Male,Others,91.2,CBSE,75.6,Civil,7.92,MTech,No,Moderate,Yes,No,,
+2/2/2019 21:34:11,Swapnil Roy,21,Male,Music,95,CBSE,85.2,ETC,7.5,Others,No,Moderate,Yes,Yes,Tata Consultancy Services,Software Engineer Trainee
+2/2/2019 21:34:49,Soumya Ranjan Pradhan,21,Male,Others,95,CBSE,91.4,Civil,8.08,MTech,No,Low,Yes,No,,
+2/2/2019 21:34:50,Ankita Mohapatra,21,Female,Music,95,CHSE,72.5,ETC,8.02,Others,No,Moderate,Yes,Yes,,
+2/2/2019 21:35:06,Divya Xalxo ,21,Female,Music,73,CHSE,50.33,Mechanical,7.68,Banking,No,Low,Yes,No,,
+2/2/2019 21:35:31,Smrutisikha Jena,22,Female,Music,83.5,CHSE,66.83,Electrical,7.6,MTech,Yes,Moderate,Yes,No,,
+2/2/2019 21:35:41,Tirtha Tathagata Aich,21,Male,Others,86.17,CHSE,74.5,Civil,8.14,Others,No,Low,Yes,No,,
+2/2/2019 21:36:10,sudeep patra,21,Male,Others,79,CHSE,74,Production,7.4,Others,No,Moderate,Yes,No,,
+2/2/2019 21:36:49,AKANKSHYA PANDA,22,Female,Dance,78,CBSE,73,Civil,7.78,MTech,Yes,Moderate,Yes,No,,
+2/2/2019 21:37:10,ANSHUMAN NAYAK,22,Male,Sports,95,CBSE,89,Electrical,7.3,MTech,Yes,Low,Yes,No,,
+2/2/2019 21:37:21,Rudranarayan Singha,21,Male,Sports,93.16,CHSE,81.5,Electrical,8.17,Others,No,Moderate,Yes,No,,
+2/2/2019 21:39:03,Laxmipriya Hembram,21,Female,Art,82,CHSE,60,Mettalurgy,7.32,Others,No,Moderate,Yes,No,,
+2/2/2019 21:39:46,Aishwarya  Samantsinghar ,20,Female,Art,95,CBSE,85.8,Electrical,7.93,Others,No,Moderate,Yes,No,,
+2/2/2019 21:50:34,Abinash Paikaray,22,Male,Music,95,CBSE,84.6,Civil,7.71,MBA,Yes,High,Yes,No,,
+2/2/2019 21:51:20,AKASH KUMAR SADANGI,21,Male,Sports,92,CHSE,74,Electrical,7.6,Others,No,Low,Yes,No,,
+2/2/2019 21:52:18,Aparajita mishra,22,Female,Music,95,CBSE,75,Civil,8.33,MTech,Yes,High,Yes,No,,
+2/2/2019 21:57:36,Amaresh khuntia ,22,Male,Sports,9.6,CBSE,90.6,Mechanical,8.52,MTech,No,Moderate,Yes,No,,
+2/2/2019 21:58:11,SIDDHESWAR NAHAK,21,Male,Sports,87.66,CHSE,73.66,ETC,7.62,MBA,No,Moderate,Yes,No,,
+2/2/2019 21:58:18,Mahesh prasad nayak,23,Male,Music,84.5,CHSE,66,Civil,7.67,Others,Yes,Low,Yes,No,,
+2/2/2019 21:58:36,Hrushikesh Rout,20,Male,Dance,87.33,CHSE,72.83,Civil,7.56,MBA,No,Moderate,Yes,No,,
+2/2/2019 21:59:26,Chinmaya Pradhan,22,Male,Art,90.16,CHSE,79.16,Electrical,8.5,MTech,No,Moderate,Yes,No,,
+2/2/2019 21:59:32,Chinmaya Pradhan,22,Male,Art,90.16,CHSE,79.16,Electrical,8.5,MTech,No,Moderate,Yes,No,,
+2/2/2019 22:03:01,Lopamudra Panda,20,Female,Music,81.6,CHSE,73.66,Civil,7.76,Others,No,Moderate,Yes,No,,
+2/2/2019 22:07:56,Titikshya Choudhury,21,Female,Art,91,CHSE,81,Mechanical,8.04,MTech,No,High,Yes,No,,
+2/2/2019 22:08:43,Rupesh Chandra Routray,21,Male,Others,93,CHSE,73,Electrical,7.59,MTech,Yes,Moderate,No,No,,
+2/2/2019 22:13:15,Bihas Kumar,23,Male,Others,83.85,CBSE,79.33,Mechanical,8.14,Others,Yes,Moderate,Yes,No,,
+2/2/2019 22:14:02,Ajit Kumar Dash ,22,Male,Sports,77.5,CHSE,50,CSE,6.35,Others,No,High,Yes,No,,
+2/2/2019 22:16:42,Ankita Agrawal,21,Female,Art,88,CBSE,85,Production,8.5,MS,No,Moderate,Yes,Yes,Infosys,System Engineer
+2/2/2019 22:19:47,Chandrasekhar Sahoo,22,Male,Others,89.89,CHSE,77.2,Mettalurgy,6.9,MBA,No,Moderate,Yes,No,,
+2/2/2019 22:27:32,Akankshya Das,22,Female,Dance,95,CBSE,85.4,Electrical,8.01,MTech,Yes,Moderate,Yes,No,,
+2/2/2019 22:28:13,Bibhuti Baral,21,Male,Music,87.16,CHSE,69.16,CSE,7.83,MTech,Yes,Moderate,No,No,,
+2/2/2019 22:29:20,SREYASHREE NAG,20,Female,Art,89.16,CHSE,69.83,Electrical,7.69,MTech,No,Moderate,Yes,No,,
+2/2/2019 22:30:09,jitendra mohapatra,21,Male,Sports,67,CHSE,78.33,Mettalurgy,7.48,Others,No,Moderate,Yes,No,,
+2/2/2019 22:31:04,Susmita Das,23,Female,Music,78,CHSE,72,ETC,8.21,Others,No,Moderate,Yes,No,,
+2/2/2019 22:32:38,Praveen V,21,Male,Coding,86.67,CHSE,80.5,CSE,8.15,MTech,Yes,Low,No,Yes,Infosys ,System Engineer 
+2/2/2019 22:33:49,Chinmayee sahoo,21,Female,Others,89.5,CHSE,74,Mechanical,8.49,MTech,No,Moderate,Yes,No,,
+2/2/2019 22:36:05,Ankita Mohanty,22,Female,Dance,87,CHSE,80,CSE,8.2,MS,No,Moderate,Yes,Yes,Mindfire solutions,Trainee software engineer
+2/2/2019 22:39:11,Anisha mandal,21,Female,Art,92.6,CHSE,75.6,Electrical,7.96,Others,Yes,High,Yes,No,,
+2/2/2019 22:45:11,Smruti sanjita jani,22,Female,Art,84.33,CHSE,68.83,Civil,8.09,MTech,Yes,Moderate,Yes,No,,
+2/2/2019 22:46:35,Mahesh Behera,22,Male,Music,86.66,CHSE,66.33,Civil,7.5,Others,Yes,Moderate,Yes,No,,
+2/2/2019 22:48:29,Vinit Sharma,22,Male,Music,86.66,CBSE,85.2,CSE,8.59,MBA,No,High,No,Yes,Process Map,Trainee Engineer
+2/2/2019 22:54:17,Mousumi sahu,20,Female,Sports,69.5,CHSE,53.8,Mechanical,65,Others,No,Moderate,Yes,No,,
+2/2/2019 22:55:10,Debasis barik,20,Male,Music,80,CHSE,61,Civil,7.81,Others,No,Moderate,Yes,No,,
+2/2/2019 22:58:10,T KARTIK KUMAR,22,Male,Dance,93,CBSE,91,CSE,8.95,MTech,No,Moderate,No,Yes,TCS,ASE - Trainee
+2/2/2019 23:02:31,SOBHAGINI PANDEY,23,Female,Dance,89.3,CBSE,72.4,ETC,8.36,Others,No,Moderate,Yes,No,,
+2/2/2019 23:06:24,Pooja Behera ,22,Female,Art,71,CHSE,61,Mettalurgy,7.65,Others,Yes,High,Yes,No,,
+2/2/2019 23:19:28,madan mohan mahapatra,21,Male,Others,87.83,CHSE,78.63,CSE,7.77,MBA,No,Moderate,No,No,,
+2/2/2019 23:22:44,Sajan Behera,20,Male,Others,85,CBSE,70,ETC,7.51,MTech,No,Low,Yes,No,,
+2/2/2019 23:40:40,Bijayalaxmi Mangaraj,21,Female,Music,76,CHSE,75,Mechanical,8.16,MTech,No,Moderate,Yes,No,,
+2/2/2019 23:45:01,Alpha Anindita,21,Female,Music,95,CBSE,84.5,Electrical,7.66,Others,No,High,Yes,No,,
+2/2/2019 23:47:23,Debee Prasad Panda,21,Male,Art,89,CHSE,73,Mettalurgy,7.9,Others,Yes,Moderate,Yes,No,,
+2/2/2019 23:53:47,Aveet Kumar Agarwal,21,Male,Dance,87.17,ICSE,84.4,ETC,8.65,Others,No,High,Yes,Yes,,
+2/3/2019 0:04:41,Aishwarya Aparajeeta Nanda,21,Female,Others,92.43,CBSE,81.4,Electrical,8.41,MBA,Yes,Moderate,Yes,No,,
+2/3/2019 0:08:29,Sandeep Sahu,,Male,Sports,95,CBSE,90.6,ETC,8.35,Others,No,Moderate,Yes,No,,
+2/3/2019 0:09:06,Chandni Agrawal,21,Female,Music,80,CBSE,78,Production,8.22,MTech,No,Low,Yes,No,,
+2/3/2019 0:23:03,Rasmita Behera,23,Female,Art,63,CHSE,75.45,ETC,7.22,Others,Yes,Moderate,Yes,No,,
+2/3/2019 0:25:39,AMAR JYOTI PATRA,23,Male,Others,90.83,CHSE,80.18,Electrical,7.4,Banking,Yes,Moderate,Yes,No,,
+2/3/2019 5:59:10,Lokaram Murmu ,21,Male,Sports,74.5,CHSE,83.7,Civil,8.27,Others,Yes,Moderate,Yes,No,,
+2/3/2019 8:03:48,K.Uday kumar,21,Male,Music,95,CBSE,84,Electrical,8.12,MTech,No,Moderate,Yes,No,,
+2/3/2019 9:36:58,Purabi Mishra ,22,Female,Music,95,CBSE,91.8,Electrical,8.59,MTech,No,High,Yes,No,,
+2/3/2019 10:16:12,Saswati Mohapatra,20,Female,Music,95,CBSE,91.6,Electrical,8.33,MTech,No,Moderate,Yes,No,,
+2/3/2019 10:24:21,SANDEEP KUMAR PATRA,22,Male,Coding,94,CBSE,80,ETC,7,MTech,No,Low,Yes,No,,
+2/3/2019 10:41:06,Harsh bhargav,21,Male,Sports,78,CBSE,72.9,Mechanical,74.5,MTech,No,Moderate,Yes,No,,
+2/3/2019 11:06:57,shakti sikha,21,Male,Sports,83.33,CHSE,72.66,Mettalurgy,7.76,MTech,Yes,Moderate,Yes,No,,
+2/3/2019 11:37:10,Asima Nath,23,Female,Music,72,CHSE,65,CSE,7.12,Others,Yes,High,Yes,No,,
+2/3/2019 13:22:22,Swati Sandipta Jena,21,Female,Others,91.33,CHSE,83.16,CSE,8.38,MBA,No,Moderate,No,Yes,Wipro ,Project Engineer
+2/3/2019 16:48:26,Pratik Patra,21,Male,Others,81.17,CHSE,71,Electrical,7.45,MBA,No,High,Yes,Yes,Infosys Technologies,Assistant System Engineer
+2/3/2019 16:50:06,PRATIKHYA DEHURY,21,Female,Music,89.17,CHSE,73.3,Electrical,7.6,MTech,No,Moderate,Yes,No,,
+2/3/2019 20:38:59,Sibangi Pattanaik,22,Female,Others,81,CHSE,71,Electrical,8.01,MTech,No,Moderate,Yes,No,,
+2/3/2019 23:41:34,SOUGAT PANDA ,22,Male,Sports,93,CHSE,77.83,Chemical,7.68,MTech,Yes,Moderate,Yes,No,,
+2/4/2019 10:18:39,suvam jaiswal,23,Male,Coding,93.5,CHSE,73.8,CSE,7.01,MTech,Yes,High,No,No,,
+2/4/2019 10:59:00,SUBHAM BARIK,22,Male,Sports,85,CHSE,69.5,Production,6.68,MBA,Yes,Low,Yes,No,,
+2/4/2019 11:57:01,Priti Sundar Merkap ,21,Male,Sports,89,ICSE,67,Chemical,8.1,MBA,Yes,Moderate,Yes,Yes,Tata Consultancy Services ,
+2/4/2019 12:54:46,Shuvam Mohanty,22,Male,Art,95,CBSE,80.4,Civil,7.89,Others,Yes,Moderate,Yes,No,,
+2/4/2019 12:59:19,Swapnil Roy,21,Male,Music,95,CBSE,85.2,ETC,7.5,Others,No,Moderate,Yes,Yes,Tata Consultancy Services,Tata Consultancy Services
+2/4/2019 12:59:26,Priyabrata pattanaik,22,Male,Others,85,CBSE,86.2,Chemical,7.9,MBA,No,Moderate,Yes,Yes,Infosys,GET
+2/4/2019 13:03:39,Anshuman Sekhar Dash,20,Male,Coding,89.3,CBSE,90,CSE,7.8,MTech,No,Low,Yes,Yes,Infosys,System engineer
+2/4/2019 13:04:22,Ayushman Kishore Dash,20,Male,Others,87.4,CBSE,87,CSE,7.91,MTech,No,Low,Yes,Yes,Tata Consultancy Services,Assistant Systems Engineer Trainee
+2/4/2019 13:09:59,Gyana Prasad Nayak,20,Male,Coding,88,CBSE,60.8,Production,6.38,Others,No,Moderate,Yes,No,,
+2/4/2019 13:25:27,Debabrata mahapatra,21,Male,Sports,89.5,CHSE,76.16,Electrical,7.88,Others,Yes,Moderate,Yes,No,,
+2/4/2019 13:34:59,Priyanka Priyadarshini Ray,21,Female,Dance,85,CHSE,73.5,Chemical,7.99,MTech,Yes,Moderate,Yes,No,,
+2/4/2019 13:45:53,US Vishaal,23,Male,Others,95,CBSE,86,ETC,6.6,MBA,Yes,Low,Yes,No,,
+2/4/2019 13:47:40,Avishek Dutta,21,Male,Sports,89.3,CBSE,91.2,Civil,8.15,Others,Yes,Moderate,Yes,No,,
+2/4/2019 14:34:13,Tara Prasad Nayak,22,Male,Sports,95,CBSE,87.4,Mettalurgy,7.4,MBA,No,Moderate,No,No,,
+2/4/2019 15:07:41,Madhusmita Mishra,22,Female,Coding,95,CBSE,82.6,CSE,8.7,MTech,Yes,Moderate,No,Yes,TCS,System engineer
+2/4/2019 17:06:40,Debidutta Ghosh ,22,Male,Art,80.6,CHSE,72.5,Electrical,7.98,Others,Yes,Low,Yes,No,,
+2/4/2019 19:38:08,Debabrata Mishra,21,Male,Sports,89.67,CHSE,78.83,Mechanical,8.32,MBA,Yes,Moderate,No,No,,
+2/5/2019 22:59:18,Anindya sutar,20,Male,Art,81.5,CHSE,77.33,Mettalurgy,7.62,Others,No,High,Yes,No,,
+2/6/2019 0:37:53,Ipsita Dwibedy,21,Female,Art,87.4,CBSE,71.6,Mettalurgy,7.24,MBA,Yes,Moderate,Yes,No,,
